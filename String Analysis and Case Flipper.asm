@@ -1,4 +1,3 @@
-; Final Exam Project
 ; Alexander Woeste
 
 INCLUDE Irvine32.inc
